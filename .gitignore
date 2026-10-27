@@ -1,0 +1,10 @@
+*.dmg
+*.pkg
+*.exe
+*.msi
+*.zip
+*.tar.gz
+*.tgz
+*.app
+node_modules/
+.DS_Store
