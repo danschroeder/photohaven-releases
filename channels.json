@@ -4,7 +4,7 @@
     "linux": ""
   },
   "latest": {
-    "mac": "",
+    "mac": "v0.1.0-mac.1",
     "linux": "v0.1.0-linux.1"
   }
 }
