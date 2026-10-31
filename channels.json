@@ -1,0 +1,10 @@
+{
+  "stable": {
+    "mac": "",
+    "linux": ""
+  },
+  "latest": {
+    "mac": "",
+    "linux": "v0.1.0-linux.1"
+  }
+}
